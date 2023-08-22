@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.d9f2368f.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/interview/interview.md"}'),n={name:"src/interview/interview.md"};function a(i,s,c,o,p,_){return r(),t("div")}const f=e(n,[["render",a]]);export{m as __pageData,f as default};

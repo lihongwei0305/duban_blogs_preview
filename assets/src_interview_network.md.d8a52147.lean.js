@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,N as i}from"./chunks/framework.d9f2368f.js";const _=JSON.parse('{"title":"NetWork","description":"","frontmatter":{},"headers":[],"relativePath":"src/interview/network.md"}'),a={name:"src/interview/network.md"},r=i("",11),d=[r];function n(o,c,h,s,p,u){return l(),e("div",null,d)}const x=t(a,[["render",n]]);export{_ as __pageData,x as default};

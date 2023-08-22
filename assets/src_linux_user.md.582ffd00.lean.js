@@ -1,0 +1,1 @@
+import{_ as e,c as l,o as i,N as o}from"./chunks/framework.d9f2368f.js";const m=JSON.parse('{"title":"用户管理","description":"","frontmatter":{},"headers":[],"relativePath":"src/linux/user.md"}'),d={name:"src/linux/user.md"},c=o("",12),a=[c];function t(s,r,u,h,n,p){return i(),l("div",null,a)}const x=e(d,[["render",t]]);export{m as __pageData,x as default};

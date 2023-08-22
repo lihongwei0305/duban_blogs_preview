@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.d9f2368f.js";const b=JSON.parse('{"title":"工具","description":"","frontmatter":{},"headers":[],"relativePath":"src/frontEnd/javaScript/util.md"}'),p={name:"src/frontEnd/javaScript/util.md"},o=l("",3),e=[o];function F(c,t,r,y,D,i){return a(),n("div",null,e)}const u=s(p,[["render",F]]);export{b as __pageData,u as default};

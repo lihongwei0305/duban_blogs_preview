@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.d9f2368f.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/network/PresentationLayer.md"}'),a={name:"src/network/PresentationLayer.md"};function n(o,s,c,i,p,_){return r(),t("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};

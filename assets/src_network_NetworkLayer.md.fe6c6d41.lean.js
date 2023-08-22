@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as i,N as e}from"./chunks/framework.d9f2368f.js";const q=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/network/NetworkLayer.md"}'),o={name:"src/network/NetworkLayer.md"},r=e("",48),t=[r];function h(n,s,d,c,u,P){return i(),l("div",null,t)}const f=a(o,[["render",h]]);export{q as __pageData,f as default};

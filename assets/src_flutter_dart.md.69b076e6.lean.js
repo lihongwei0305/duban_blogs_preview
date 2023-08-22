@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,N as o}from"./chunks/framework.d9f2368f.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/flutter/dart.md"}'),c={name:"src/flutter/dart.md"},l=o("",4),r=[l];function d(i,n,s,_,u,h){return a(),t("div",null,r)}const p=e(c,[["render",d]]);export{m as __pageData,p as default};

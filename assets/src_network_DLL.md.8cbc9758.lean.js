@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as s,N as n}from"./chunks/framework.d9f2368f.js";const A=JSON.parse('{"title":"数据链路层","description":"","frontmatter":{},"headers":[],"relativePath":"src/network/DLL.md"}'),e={name:"src/network/DLL.md"},i=n("",16),r=[i];function o(t,c,p,d,h,b){return s(),l("div",null,r)}const F=a(e,[["render",o]]);export{A as __pageData,F as default};

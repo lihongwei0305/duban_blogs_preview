@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r}from"./chunks/framework.d9f2368f.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/network/tcpip.md"}'),c={name:"src/network/tcpip.md"};function a(o,s,n,p,i,_){return r(),e("div")}const f=t(c,[["render",a]]);export{m as __pageData,f as default};

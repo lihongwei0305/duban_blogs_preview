@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.d9f2368f.js";const m=JSON.parse('{"title":"NerWork","description":"","frontmatter":{},"headers":[],"relativePath":"src/network/network.md"}'),p={name:"src/network/network.md"},e=l("",30),r=[e];function F(c,i,o,b,t,E){return a(),n("div",null,r)}const y=s(p,[["render",F]]);export{m as __pageData,y as default};

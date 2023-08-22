@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as s,N as n}from"./chunks/framework.d9f2368f.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/network/DataLinkLayer.md"}'),e={name:"src/network/DataLinkLayer.md"},o=n("",43),i=[o];function r(p,t,c,F,h,d){return s(),l("div",null,i)}const y=a(e,[["render",r]]);export{b as __pageData,y as default};

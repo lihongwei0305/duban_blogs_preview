@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as e}from"./chunks/framework.d9f2368f.js";const h=JSON.parse('{"title":"Dom","description":"","frontmatter":{},"headers":[],"relativePath":"src/frontEnd/javaScript/dom.md"}'),l={name:"src/frontEnd/javaScript/dom.md"},o=e("",10),t=[o];function p(r,c,i,F,d,m){return a(),n("div",null,t)}const b=s(l,[["render",p]]);export{h as __pageData,b as default};

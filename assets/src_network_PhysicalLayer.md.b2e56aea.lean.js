@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as a,N as e}from"./chunks/framework.d9f2368f.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/network/PhysicalLayer.md"}'),o={name:"src/network/PhysicalLayer.md"},t=e("",9),r=[t];function s(c,n,h,p,_,d){return a(),i("div",null,r)}const P=l(o,[["render",s]]);export{m as __pageData,P as default};
